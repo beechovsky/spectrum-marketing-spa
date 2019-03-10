@@ -46,6 +46,10 @@ h1, h2, h3 {
   font-weight: normal;
 }
 
+h1 {
+  font-size: xx-large;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
@@ -71,6 +75,6 @@ a {
   background-repeat: no-repeat;
   color: white;
   //background-color: #9765f4;
-  background-image: linear-gradient(to right, #9765f4 , white);
+  background-image: linear-gradient(to bottom right, #9765f4 , white);
 }
 </style>
