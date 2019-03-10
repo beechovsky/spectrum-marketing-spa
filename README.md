@@ -1,2 +1,18 @@
 # spectrum-marketing-spa
-Spectrum's initial marketing page. This is for providing a little detail about what Spectrum is and allowing sign-up to the user mailing list.
+
+> vue spa for email signup & interest tracking
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
+
+For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
